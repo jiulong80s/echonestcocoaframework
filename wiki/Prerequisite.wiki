@@ -1,4 +1,5 @@
 #summary What you need to use the Framework
+#labels Featured
 
 = Prerequisite =
 
