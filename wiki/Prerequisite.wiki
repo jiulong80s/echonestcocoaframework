@@ -2,8 +2,8 @@
 
 = Prerequisite =
 
-To be able to use this Framework, you need to get an EchoNest API Key.
-You can get one by registering with the EchoNest on the following page.
+To be able to use this Framework, you need to get an [EchoNest Echo Nest] API Key.
+You can get one by registering with The Echo Nest on the following page.
 http://developer.echonest.com/account/register/
 
 Once you have a valid API Key, you'll be able to init an EchoNest object by using the method
