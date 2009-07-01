@@ -7,7 +7,7 @@
 
 = Missing methods =
 
-  * All the Artist methods. Mainly due to the fact that you can't make more than one request per hour. Difficult to test.
+  * All the Artist methods.
   * Charts methods.
   * Identifer methods.
 
