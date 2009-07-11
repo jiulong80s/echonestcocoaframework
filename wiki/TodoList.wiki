@@ -9,13 +9,11 @@
 
   * All the Artist methods.
   * Charts methods.
-  * Identifer methods.
+  * Identifier methods.
 
 = Improvements =
 
   * Better error handling (almost inexistent now).
-  * Change the XML parsing method to use NSXMLParser for iPhone portability.
-  * Refine returned results, using NSDictionnary or NSArray.
   * Another notification mode. We are using NSNotification. Maybe we need to implement a delegate protocol.
   * Find a way to update upload status (percentage) for the MP3 uploading method.
   * ????
