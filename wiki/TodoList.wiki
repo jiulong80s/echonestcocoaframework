@@ -16,5 +16,6 @@
   * Better error handling (almost inexistent now).
   * Another notification mode. We are using NSNotification. Maybe we need to implement a delegate protocol.
   * Find a way to update upload status (percentage) for the MP3 uploading method.
+  * URL "upload" for tracks
   * ????
   * profit
